@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tortassignment/static/css/main.e474fe8f.css",
+    "main.js": "/tortassignment/static/js/main.664b8127.js",
+    "static/js/787.211b54c5.chunk.js": "/tortassignment/static/js/787.211b54c5.chunk.js",
+    "index.html": "/tortassignment/index.html",
+    "main.e474fe8f.css.map": "/tortassignment/static/css/main.e474fe8f.css.map",
+    "main.664b8127.js.map": "/tortassignment/static/js/main.664b8127.js.map",
+    "787.211b54c5.chunk.js.map": "/tortassignment/static/js/787.211b54c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e474fe8f.css",
+    "static/js/main.664b8127.js"
+  ]
+}
